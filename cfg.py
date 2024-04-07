@@ -2,7 +2,7 @@
 TB_Host = "irc.twitch.tv"
 TB_Port = 6667
 TB_User = "asylumsbot"
-TB_Oauth = "oauth:78lihmvosqs5v5summsp3txuqgaban"
+TB_Oauth = "oauth:"
 TB_CHANNEL = "#immasylum"
 
 #Varibales for OBS
